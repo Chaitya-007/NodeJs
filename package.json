@@ -1,0 +1,15 @@
+{
+  "name": "chaitya",
+  "version": "1.0.0",
+  "description": "It is an amazing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaitya",
+  "type": "commonjs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
